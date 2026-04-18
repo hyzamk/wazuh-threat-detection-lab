@@ -51,7 +51,7 @@ git clone https://github.com/wazuh/wazuh-docker.git -b v4.14.0
 cd wazuh-docker/single-node/
 docker compose up -d
 ```
-![Setup Windows + Docker](screenshots/docker containers.png)
+![setup](screenshots/docker_containers.png)
 
 ---
 
