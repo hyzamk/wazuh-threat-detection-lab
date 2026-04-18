@@ -138,6 +138,6 @@ Automatically blocks malicious activity using predefined rules.
 
 ## 📄 Report
 
-[Download Full Report](report/wazuh_project_report.pdf)
+[View Full Report](report/wazuh_project_report.pdf)
 
 ---
