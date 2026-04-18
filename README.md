@@ -2,7 +2,7 @@
 Advanced Wazuh-based threat detection and response lab with File Integrity Monitoring (FIM), VirusTotal, AlienVault OTX, MITRE ATT&amp;CK mapping, and automated active response.
 # 🔐 Wazuh Threat Detection & Response Lab
 
-## 📌 Overview
+## Overview
 
 This project demonstrates an advanced endpoint security monitoring system using Wazuh. It integrates multiple security capabilities including File Integrity Monitoring (FIM), VirusTotal, AlienVault OTX, MITRE ATT&CK mapping, and Active Response to detect, analyze, and respond to threats in real time.
 
@@ -10,7 +10,7 @@ The project simulates a real-world Security Operations Center (SOC) environment 
 
 ---
 
-## 🖥️ Environment Clarification
+##  Environment Clarification
 
 This project was initially implemented and documented using a Kali Linux environment.
 
@@ -20,7 +20,7 @@ Both setups follow the same architecture and configurations, ensuring consistent
 
 ---
 
-## 🎯 Features
+##  Features
 
 * 📁 File Integrity Monitoring (FIM)
 * 🦠 VirusTotal Integration (Malware Detection)
@@ -116,7 +116,7 @@ Automatically blocks malicious activity using predefined rules.
 
 ---
 
-## 📊 Results
+##  Results
 
 * Achieved real-time threat detection and monitoring
 * Improved alert accuracy using threat intelligence
@@ -127,6 +127,6 @@ Automatically blocks malicious activity using predefined rules.
 
 ## 📄 Report
 
-[Download Full Report](wazuh_ project.pdf)
+[Download Full Report]((report/wazuh_project.pdf))
 
 ---
