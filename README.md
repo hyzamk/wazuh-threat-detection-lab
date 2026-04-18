@@ -51,6 +51,7 @@ git clone https://github.com/wazuh/wazuh-docker.git -b v4.14.0
 cd wazuh-docker/single-node/
 docker compose up -d
 ```
+![Setup Windows + Docker](screenshots/docker containers.png)
 
 ---
 
@@ -58,11 +59,15 @@ docker compose up -d
 
 Detects unauthorized file and registry changes on the endpoint system.
 
+![FIM Alert](screenshots/fim.png)
+
 ---
 
 ## 🦠 VirusTotal Integration
 
 Scans file hashes against VirusTotal to detect malicious files.
+
+![VirusTotal](screenshots/virustotal_integration.png)
 
 ---
 
@@ -70,17 +75,23 @@ Scans file hashes against VirusTotal to detect malicious files.
 
 Checks IPs and domains against global threat intelligence feeds.
 
+![OTX Alert](screenshots/otx.png)
+
 ---
 
 ## 🎯 MITRE ATT&CK Mapping
 
 Maps detected events to attacker tactics and techniques.
 
+![MITRE Mapping](screenshots/mitre.png)
+
 ---
 
 ## ⚡ Active Response
 
 Automatically blocks malicious activity using predefined rules.
+
+![Active Response](screenshots/active-response.png)
 
 ---
 
