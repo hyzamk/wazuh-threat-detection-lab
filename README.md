@@ -39,6 +39,8 @@ The system follows a centralized monitoring architecture:
 * Alerts are enriched using threat intelligence
 * Active Response mitigates attacks automatically
 * Results are visualized in the Wazuh Dashboard
+  
+  ![Architecture](screenshots/dashboard.png)
 
 ---
 
