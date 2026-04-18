@@ -91,7 +91,7 @@ Maps detected events to attacker tactics and techniques.
 
 Automatically blocks malicious activity using predefined rules.
 
-![Active Response](screenshots/active-response.png)
+![Active Response](screenshots/active_response.png)
 
 ---
 
