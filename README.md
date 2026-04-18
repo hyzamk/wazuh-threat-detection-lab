@@ -127,6 +127,6 @@ Automatically blocks malicious activity using predefined rules.
 
 ## 📄 Report
 
-[Download Full Report](report/wazuh_project.pdf)
+[Download Full Report](report/wazuh_ project.pdf)
 
 ---
