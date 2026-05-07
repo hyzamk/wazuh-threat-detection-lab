@@ -1,6 +1,6 @@
 #  Wazuh Threat Detection & Response Lab
 Advanced Wazuh-based threat detection and response lab with File Integrity Monitoring (FIM), VirusTotal, AlienVault OTX, MITRE ATT&amp;CK mapping, and automated active response.
-# 🔐 Wazuh Threat Detection & Response Lab
+
 
 ## Overview
 
@@ -30,7 +30,7 @@ Both setups follow the same architecture and configurations, ensuring consistent
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 The system follows a centralized monitoring architecture:
 
@@ -44,7 +44,7 @@ The system follows a centralized monitoring architecture:
 
 ---
 
-## ⚙️ Setup (Windows + Docker)
+##  Setup (Windows + Docker)
 
 ```bash
 git clone https://github.com/wazuh/wazuh-docker.git -b v4.14.0
@@ -55,7 +55,7 @@ docker compose up -d
 
 ---
 
-## 📁 File Integrity Monitoring (FIM)
+##  File Integrity Monitoring (FIM)
 
 Detects unauthorized file and registry changes on the endpoint system.
 
@@ -63,7 +63,7 @@ Detects unauthorized file and registry changes on the endpoint system.
 
 ---
 
-## 🦠 VirusTotal Integration
+##  VirusTotal Integration
 
 Scans file hashes against VirusTotal to detect malicious files.
 
@@ -71,7 +71,7 @@ Scans file hashes against VirusTotal to detect malicious files.
 
 ---
 
-## 🌐 AlienVault OTX Integration
+##  AlienVault OTX Integration
 
 Checks IPs and domains against global threat intelligence feeds.
 
@@ -79,7 +79,7 @@ Checks IPs and domains against global threat intelligence feeds.
 
 ---
 
-## 🎯 MITRE ATT&CK Mapping
+##  MITRE ATT&CK Mapping
 
 Maps detected events to attacker tactics and techniques.
 
@@ -87,7 +87,7 @@ Maps detected events to attacker tactics and techniques.
 
 ---
 
-## ⚡ Active Response
+##  Active Response
 
 Automatically blocks malicious activity using predefined rules.
 
@@ -95,7 +95,7 @@ Automatically blocks malicious activity using predefined rules.
 
 ---
 
-## 🚨 Use Cases
+##  Use Cases
 
 * Malware detection using EICAR test file
 * File and registry tampering detection
@@ -104,7 +104,7 @@ Automatically blocks malicious activity using predefined rules.
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 * Wazuh
 * Docker
@@ -114,7 +114,7 @@ Automatically blocks malicious activity using predefined rules.
 
 ---
 
-## 📚 What I Learned
+##  What I Learned
 
 * How to deploy and configure Wazuh in different environments
 * Hands-on experience with SIEM and endpoint security monitoring
@@ -138,6 +138,6 @@ Automatically blocks malicious activity using predefined rules.
 
 ## 📄 Report
 
-[View Full Report](report/wazuh_project_report.pdf)
+![View Full Report](report/wazuh_project_report.pdf)
 
 ---
